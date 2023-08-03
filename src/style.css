@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: rgb(23, 114, 43);
+}
+.carta {
+  font-size: 70px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  width: 300px;
+  height: 400px;
+}
+.palo1 {
+  transform: rotate(180deg);
+}
+.red {
+  color: red;
+}
